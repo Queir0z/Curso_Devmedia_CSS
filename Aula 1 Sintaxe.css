@@ -7,6 +7,8 @@ Elemento {
 
 # Exemplo: */
 h1{
-    font-size: 28px
+    font-size: 28px;
+    color: blue;
 }
+/*Criei a tag h1 (que pode ser um título um parágrafo (tag p) , ou (link a)*/
 
