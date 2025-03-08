@@ -1,0 +1,12 @@
+/*#### Aula 1 curso CSS ####
+
+# Sintaxe
+Elemento {
+    Propriedade: valor;
+}
+
+# Exemplo: */
+h1{
+    font-size: 28px
+}
+
