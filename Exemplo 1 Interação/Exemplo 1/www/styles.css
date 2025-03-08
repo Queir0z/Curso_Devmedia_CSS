@@ -5,8 +5,13 @@
   }
   
   h1 {
-    color: #0073e6;
+    color: white; /* Texto branco para contraste */
     font-family: Arial, sans-serif;
+    font-size: 48px;
+    background-color: rgba(87, 8, 8, 0.726);  /* Preto com 70% de transparência */
+    padding: 10px; /* Espaçamento interno */
+    display: inline-block;  /* Faz o fundo cobrir apenas o tamanho do texto */
+    border-radius: 5px; /* Bordas arredondadas */
   }
   
   p {
