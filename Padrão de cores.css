@@ -1,0 +1,15 @@
+/*#### Aula 4 - Padrão de cores ####*/
+/* Padrão Nominal */
+h1 {
+    color:blue;
+}
+/* Padrão rgb */
+a{
+    color: rgb(255,255,255);/*O intervalo da quantidade de cor vai de 0 até 255 utilizado principalmente em background-color*/
+    background-color: rgb(0, 0, 0);
+}
+/*Padrão Hexadecimal*/
+h2 {
+    color: #00F; /* #(0 - Vermelho)(0 - Verde)(F - Azul) Utiliza caracteres hexadecimais ao invéz de intervalos de 0 a 255 */
+}
+

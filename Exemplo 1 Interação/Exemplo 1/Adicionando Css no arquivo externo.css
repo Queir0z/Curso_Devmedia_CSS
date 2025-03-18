@@ -1,0 +1,13 @@
+/* Adicionando CSS por um Arquivo Externo */
+/* No R-studio ele é chamando pela função abaixo */
+
+  tags$head(
+    tags$link(rel = "stylesheet", type = "text/css", href = "styles.css")
+  ),
+  
+  /* No HTML é chamada pela função */ 
+  <head>
+    <meta charset="UTF-8">
+    <title> Estrutura CSS</title>
+    <link rel="stylesheet" href="estilo.css"> /* Essa função faz o trabalho de relacionar o html com o arquivo css */
+  </head>
